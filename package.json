@@ -1,0 +1,47 @@
+{
+  "_from": "testing-abstract-library",
+  "_id": "testing-abstract-library@1.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-iIgX34C1j7M9nY8bABiJFdxooSCb8xAhqSdRZNoaOTVitEysv4+paMzXnxtSbb7NGg6RbkvdYcqsKy9Zd981vw==",
+  "_location": "/testing-abstract-library",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "testing-abstract-library",
+    "name": "testing-abstract-library",
+    "escapedName": "testing-abstract-library",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/testing-abstract-library/-/testing-abstract-library-1.2.2.tgz",
+  "_shasum": "800e57ff0bb00e3d7765b9251419c791f648322d",
+  "_spec": "testing-abstract-library",
+  "_where": "E:\\hactober-tool\\cyp-ress\\test-abstract",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/react-hooks": "^7.0.2",
+    "chai": "^4.3.7",
+    "chai-dom": "^1.11.0",
+    "cypress": "^12.17.1",
+    "msw": "^1.2.3",
+    "react": "16.0.0",
+    "react-dom": "16.0.0"
+  },
+  "deprecated": false,
+  "description": "testing-library",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "testing-abstract-library",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.2"
+}
